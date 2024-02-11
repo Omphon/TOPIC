@@ -1,3 +1,4 @@
-# TOPIC
-สำหรับวิชาหัวข้อพิเศษ เท่านั้น
-ทดลองเขียน mark up ในไฟล์ ReadMe
+<?
+phpinfo();
+echo"my name is omphon";
+?>
